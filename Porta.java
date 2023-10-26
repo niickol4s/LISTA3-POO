@@ -1,3 +1,6 @@
+// Questão 2 - Crie uma porta, abra e feche a mesma, pinte-a de diversas cores, altere suas
+// dimensões e use o metodo estaAberta para verificar se ela esta aberta.
+
 public class Porta {
     boolean aberta;
     String cor;
